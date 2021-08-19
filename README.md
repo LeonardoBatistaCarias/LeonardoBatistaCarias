@@ -44,7 +44,7 @@
 
 ### Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBatistaCarias&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBatistaCarias&layout=compact&theme=radical)
 
 [website]: https://www.mercadolivre.com.br/
 [linkedin]: https://www.linkedin.com/in/leonardo-batista-carias-611632178/
