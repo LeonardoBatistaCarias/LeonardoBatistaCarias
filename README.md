@@ -6,7 +6,7 @@
 - 🔭 Trabalho no [Mercado Livre ][website]!
 - 🌱 Atualmente estou me aprofundando em microsserviços e Cloud.🚀
 - 👯 Busco praticar em pequenos projetos práticos e sempre me manter atualizado.
-- 🥅 Metas de 2021 : Me aprofundar nas tecnologias do meli e contribuir para democratização do comércio na LATAM
+- 🥅 Metas de 2022 : Me aprofundar nas tecnologias do meli e contribuir para democratização do comércio na LATAM
 
 
 ### Siga me nas redes:
